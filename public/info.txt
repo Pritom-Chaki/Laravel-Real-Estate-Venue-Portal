@@ -1,0 +1,2 @@
+Video Link: https://www.youtube.com/watch?v=pIulDZKG3V0&t=0s
+git link: https://github.com/LaravelDaily/Laravel-Real-Estate-Venue-Portal
